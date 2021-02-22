@@ -1,4 +1,4 @@
-# Cloudflare-Chinese-Page
+# Cloudflare-Pages-Dev
 
 我的自定义 `Cloudflare` 的 5 秒盾页面，是依据 `Cloudflare` 官方的界面进行改版的（已翻译为中文）。 
 
@@ -8,9 +8,9 @@
 
 已改为中文，HTML语言编写，可以自己编辑其中的文字。 避免了部分访问者因看不懂英文直接关闭。
 
-网站 <https://Hjz.ac.cn/> 
+网站 <https://www.lww.icu/> 
 
 统一演示地址：
-https://chinese.pages.dev/
+https://none.pages.dev/ [暂无]
 
 注：captchamy.html为旧版，现已停止使用。
