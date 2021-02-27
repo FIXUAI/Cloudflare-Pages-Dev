@@ -8,9 +8,9 @@
 
 已改为中文，HTML语言编写，可以自己编辑其中的文字。 避免了部分访问者因看不懂英文直接关闭。
 
-网站 <https://www.lww.icu/> 
+网站 <https://www.lww.im/> [暂无]
 
 统一演示地址：
-https://none.pages.dev/ [暂无]
+https://yun.pages.dev/ 
 
 注：captchamy.html为旧版，现已停止使用。
